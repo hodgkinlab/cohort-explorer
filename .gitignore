@@ -1,0 +1,6 @@
+/.idea/
+/test/*
+/out/test/*
+/out/production/*
+
+.DS_Store
