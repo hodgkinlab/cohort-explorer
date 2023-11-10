@@ -18,7 +18,7 @@ This application was developed in [Java](https://www.java.com/) environment as s
 >Installation can be done by following steps:
 > 1. Download the software from this [link](https://www.dropbox.com/s/vomnpogmf91sim1/cohort_explorer_v2018.05.zip?dl=0)
 > 2. Extract the zip file
-> 3. Open [Cohort Explorer v2017.08.jar] file
+> 3. Open [Cohort Explorer v2018.05.jar] file
 > 4. A window should pop up as shown in figure (1)
 > 5. Try drag and drop example excel files included in the package
 
