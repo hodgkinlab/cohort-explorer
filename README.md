@@ -1,5 +1,5 @@
 # Overview
-Cohort Explorer is a standalone software that provides a quick exploration of the cell cloning dynamics through cohort analysis. It is a quantitative approach to visualise data, and lay out a basis to automatically estimate cell kinematic parameters such as division rate, time to enter first division etc. You can study basic idea of cohort method from the [poster](https://github.com/hodgkinlab/cohort-method/blob/master/documents/Kan_cohort_poster.pdf), and extensively from publications [1, 2, 3]. This document is assumed that you are familiar with fundamental principles and concepts of cohort method.
+Cohort Explorer is a standalone software that provides a quick exploration of the cell cloning dynamics through cohort analysis. It is a quantitative approach to visualise data, and lay out a basis to automatically estimate cell kinematic parameters such as division rate, time to enter first division etc. You can study basic idea of cohort method from the [poster](https://github.com/hodgkinlab/cohort-method/blob/master/documents/Kan_cohort_poster.pdf), [protocol](https://doi.org/10.1007/978-1-0716-3950-4_13), and extensively from publications [[1](https://doi.org/10.1038/79782), [2](https://doi.org/10.1038/ncomms3406), [3](https://doi.org/10.1126/science.1260044)]. This document is assumed that you are familiar with fundamental principles and concepts of cohort method.
 
 Our choice of numerical technique to estimate parameters is Levenberg-Marquardt best fit algorithm for three non-linear mathematical models with associated implicit assumptions.
 
@@ -65,11 +65,13 @@ Note the order of coloured blocks for differentiating various conditions. Each t
 
 
 # References
-[1] Gett A.V. and Hodgkin P.D. (2000) A cellular calculus for signal integration by T cells. Nature Immunology.
+**Protocol:** Farchione, A.J., Cheon, H., Hodgkin, P.D., Bryant, V.L. (2024). Quantifying Human Naïve B Cell Proliferation Kinetics and Differentiation in Controlled In Vitro Cell Culture. In: Good-Jacobson, K.L. (eds) Memory B-Cells. Methods in Molecular Biology, vol 2826. Humana, New York, NY. https://doi.org/10.1007/978-1-0716-3950-4_13
 
-[2] Hawkins E.D. et al. (2013) Quantal and graded stimulation of B lymphocytes as alternative strategies for regulating adaptive immune responses. Nature Communications.
+[1] Gett A.V. and Hodgkin P.D. (2000) A cellular calculus for signal integration by T cells. Nature Immunology [https://doi.org/10.1038/79782](https://doi.org/10.1038/79782)
 
-[3] Marchingo J.M. et al. (2014) Antigen affinity, costimulation, and cytokine inputs sum linearly to amplify T cell expansion. Science
+[2] Hawkins E.D. et al. (2013) Quantal and graded stimulation of B lymphocytes as alternative strategies for regulating adaptive immune responses. Nature Communications [https://doi.org/10.1038/ncomms3406](https://doi.org/10.1038/ncomms3406)
+
+[3] Marchingo J.M. et al. (2014) Antigen affinity, costimulation, and cytokine inputs sum linearly to amplify T cell expansion. Science [https://doi.org/10.1126/science.1260044](https://doi.org/10.1126/science.1260044)
 
 
 
